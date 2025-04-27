@@ -1,0 +1,2 @@
+# git-scanner
+Scanning .Git
